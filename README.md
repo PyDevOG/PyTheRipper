@@ -29,4 +29,5 @@ To run PyTheRipper, you'll need Python and PyQt5 installed. Follow these steps:
 Execute: Click "Execute" to perform the selected action.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.![GUI](https://github.com/user-attachments/assets/c59dc11d-e1d9-4f68-be2a-8fa8786feba2)
+
